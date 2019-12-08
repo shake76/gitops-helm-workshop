@@ -15,5 +15,5 @@ spec:
     controller:
       service:
         type: LoadBalancer
-      metrics:
-        enabled: false
+        #metrics:
+        #enabled: false
